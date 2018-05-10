@@ -13,7 +13,7 @@ const App = ({ classes }) => (
 
 const styles = {
 	app: {
-		background: '-webkit-gradient(linear, left top, left bottom, from(#fff), to(#DFDCDC))',
+		// background: '-webkit-gradient(linear, left top, left bottom, from(#fff), to(#DFDCDC))',
 		height: '100%',
 	}
 }
